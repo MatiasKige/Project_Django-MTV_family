@@ -1,0 +1,6 @@
+Crear una web que permite ver los datos de algunos de tus familiares, guardados en un BD.
+1. Debera tener un template, una vista, y un modelo (como minimo, pueden usar mas).
+2. La clase del modelo, debera guardar minimo un numero, una cadena y una fecha ( puede
+   guardar mas cosas).
+3. Se deberan crear como minimo 3 familiares.
+4. Los familiares se deben ver desde la web.
